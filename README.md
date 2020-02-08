@@ -20,3 +20,7 @@
 
 [226 Invert Binary Tree](./Problem/226-Invert-Binary-Tree.md)
 
+[206 Reverse Linked List](./Problem/206-Reverse-Linked-List.md)
+
+[283 Move Zeroes](./Problem/283-Move-Zeroes.md)
+
