@@ -24,3 +24,9 @@
 
 [283 Move Zeroes](./Problem/283-Move-Zeroes.md)
 
+[169 Majority Element](./Problem/169-Majority-Element.md)
+
+[448 Find All Numbers Disappeared in an Array](./Problem/448-Find-All-Numbers-Disappeared-in-an-Array.md)
+
+[21 Merge Two Sorted Lists](./Problem/21-Merge-Two-Sorted-Lists.md)
+
