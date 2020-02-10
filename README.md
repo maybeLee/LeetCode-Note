@@ -30,3 +30,9 @@
 
 [21 Merge Two Sorted Lists](./Problem/21-Merge-Two-Sorted-Lists.md)
 
+[121 Best Time to Buy and Sell Stock](./Problem/121-Best-Time-to-Buy-and-Sell-Stock.md)
+
+[543 Diameter of Binary Tree](./Problem/543-Diameter-of-Binary-Tree.md)
+
+[70 Climbing Stairs](./Problem/70-Climbing-Stairs.md)
+
