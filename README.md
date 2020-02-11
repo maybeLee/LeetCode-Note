@@ -1,6 +1,6 @@
 # LeetCode Notebook
 
-本来想在Notebook上面编辑的，后来想想Noetbook代码编辑功能着实太垃圾，所以就用git的形式搞了。
+本来想在Notebook上面编辑的，后来想想Noetbook (yes I mean it lol.....)代码编辑功能着实太垃圾，所以就用git的形式搞了。
 
 这个笔记本是用来记录自己刷题的过程，刷题过程记录：
 
@@ -35,4 +35,8 @@
 [543 Diameter of Binary Tree](./Problem/543-Diameter-of-Binary-Tree.md)
 
 [70 Climbing Stairs](./Problem/70-Climbing-Stairs.md)
+
+[53 Maximum Subarray](./Problem/53-Maximum-Subarray.md)
+
+[101 Symmetric Tree](./Problem/101-Symmetric-Tree.md)
 
