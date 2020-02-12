@@ -40,3 +40,9 @@
 
 [101 Symmetric Tree](./Problem/101-Symmetric-Tree.md)
 
+[437 Path Sum III](./Problem/437-Path-Sum-III.md)
+
+[198 House Robber](./Problem/198-House-Robber.md)
+
+[155 Min Stack](./Problem/155-Min-Stack.md)
+
