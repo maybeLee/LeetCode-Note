@@ -46,3 +46,9 @@
 
 [155 Min Stack](./Problem/155-Min-Stack.md)
 
+[141 Linked List Cycle](./Problem/141-Linked-List-Cycle.md) 💗
+
+[20 Valid Parenthess](20-Valid-Parenthess.md)
+
+[234 Palindrome Linked List](./Problem/234-Palindrome-Linked-List.md)
+
