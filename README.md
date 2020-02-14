@@ -52,3 +52,13 @@
 
 [234 Palindrome Linked List](./Problem/234-Palindrome-Linked-List.md)
 
+[160 Intersection of Two Linked Lists](./Problem/160-Intersection-of-Two-Linked-Lists.md)
+
+[581 Shortest Unsorted Continuous Subarray](./Problem/581-Shortest-Unsorted-Continuous-Subarray.md)
+
+
+
+## Medium Problems
+
+[338 Counting Bits](./Problem/338-Counting-Bits.md)
+
