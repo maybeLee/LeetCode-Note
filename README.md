@@ -62,3 +62,9 @@
 
 [338 Counting Bits](./Problem/338-Counting-Bits.md)
 
+[406 Queue Reconstruction by Height](./Problem/406-Queue-Reconstruction-by-Height.md)💗
+
+[739 Daily Temperatures](./Problem/739-Daily-Temperatures.md)
+
+[94 Binary Tree Inorder Traversal](./Problem/94-Binary-Tree-Inorder-Traversal.md)
+
