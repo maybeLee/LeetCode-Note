@@ -48,7 +48,7 @@
 
 [141 Linked List Cycle](./Problem/141-Linked-List-Cycle.md) 💗
 
-[20 Valid Parenthess](20-Valid-Parenthess.md)
+[20 Valid Parenthess](./Problem/20-Valid-Parenthess.md)
 
 [234 Palindrome Linked List](./Problem/234-Palindrome-Linked-List.md)
 
@@ -68,3 +68,8 @@
 
 [94 Binary Tree Inorder Traversal](./Problem/94-Binary-Tree-Inorder-Traversal.md)
 
+[46 Permutations](./Problem/46-Permutations.md)
+
+[22 Generate Parentheses](./Problem/22-Generate-Parentheses.md)
+
+[647 Palindromic Substrings](./Problem/647-Palindromic-Substrings.md)
