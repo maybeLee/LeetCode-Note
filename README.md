@@ -73,3 +73,9 @@
 [22 Generate Parentheses](./Problem/22-Generate-Parentheses.md)
 
 [647 Palindromic Substrings](./Problem/647-Palindromic-Substrings.md)
+
+[347 Top K Frequent Elements](./Problem/347-Top-K-Frequent-Elements.md)
+
+[238 Product of Array Except Self](./Problem/238-Product-of-Array-Except-Self.md)
+
+[78 Subsets](./Problem/78-Subsets.md) 💗✔
