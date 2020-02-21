@@ -29,7 +29,7 @@ Output:
 
 所以这一类型的题目属于比较经典的，应该是举一反三的题目
 
-相关题目：[22 Generate Parentheses](./Problem/22-Generate-Parentheses.md); 
+相关题目：[22 Generate Parentheses](../Problem/22-Generate-Parentheses.md); 
 
 下面是这三种问题的一些总结：
 
