@@ -84,3 +84,8 @@
 
 [39 Combination Sum](./Problem/39-Combination-Sum.md) [#BackTrack]
 
+[49 Group Anagrams](./Problem/49-Group-Anagrams.md) [*字符串忽视顺序找相同(sort or count方法)，collections 数据类型介绍*]
+
+[287 Find the Duplicate Number](./Problem/287-Find-the-Duplicate-Number.md)
+
+[215 Kth Largest Element in an Array](./Problem/215 Kth Largest Element in an Array.md)
