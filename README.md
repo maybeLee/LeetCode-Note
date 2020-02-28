@@ -96,4 +96,10 @@
 
 [64 Minimum Path Sum](./Problem/64-Minimum-Path-Sum.md)[#DP#BackTrack#NoSolution]❌
 
-[337 House Robber III](./Problem/337-House-Robber-III.md)
+[337 House Robber III](./Problem/337-House-Robber-III.md)❌
+
+[96 Unique Binary Search Trees](./Problem/96-Unique-Binary-Search-Trees.md)[#Tree#DP#爬梯子]
+
+[11 Container With Most Water](./Problem/11-Container-With-Most-Water.md)[#双指针问题，这个我一直用不太熟]
+
+[394 Decode String](./Problem/394-Decode-String.md)[#Stack]
