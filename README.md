@@ -92,9 +92,9 @@
 
 [102 Binary Tree Level Order Traversal](./Problem/102-Binary-Tree-Level-Order-Traversal.md)[树的层次遍历]
 
-[62 Unique Paths](./Problem/62-Unique-Paths.md)[#Purmutation#DynamicProgramming#NoSolution]❌
+[62 Unique Paths](./Problem/62-Unique-Paths.md)[#Purmutation#DynamicProgramming#NoSolution]
 
-[64 Minimum Path Sum](./Problem/64-Minimum-Path-Sum.md)[#DP#BackTrack#NoSolution]❌
+[64 Minimum Path Sum](./Problem/64-Minimum-Path-Sum.md)[#DP#BackTrack#NoSolution]
 
 [337 House Robber III](./Problem/337-House-Robber-III.md)❌
 
@@ -103,3 +103,21 @@
 [11 Container With Most Water](./Problem/11-Container-With-Most-Water.md)[#双指针问题，这个我一直用不太熟]
 
 [394 Decode String](./Problem/394-Decode-String.md)[#Stack]
+
+[621 Task Scheduler](./Problem/621-Task-Scheduler.md)[#DictOperation]
+
+[114 Flatten Binary Tree to Linked List](./Problem/114-Flatten-Binary-Tree-to-Linked-List.md)[#Tree#Traverse#DP#树的DFS还需要再复习一下]
+
+[494 Target Sum](./Problem/494-Target-Sum.md)[#Combination#BackTrack#DP#爬梯子]
+
+[105 Construct Binary Tree from Preorder and Inorder Traversal](./Problem/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)[#Tree#Traverse#Stack]💗
+
+[309 Best Time to Buy and Sell Stock with Cooldown](./Problem/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)[#DP#Stock]💗
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+​																			50题分界线！！！！！！！
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[17 Letter Combinations of a Phone Number](./Problem/17-Letter-Combinations-of-a-Phone-Number.md)[#Combination#Backtrack]
