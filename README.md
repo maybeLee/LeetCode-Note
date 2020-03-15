@@ -121,3 +121,9 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 [17 Letter Combinations of a Phone Number](./Problem/17-Letter-Combinations-of-a-Phone-Number.md)[#Combination#Backtrack]
+
+[200 Number of Islands](./Problem/200-Number-of-Islands.md)[#DP#Recursion#]
+
+[75 Sort Colors](./Problem/75-Sort-Colors.md)[#ChangeOnList#TwoPointers]
+
+[279 Perfect Squares](./Problem/279-Perfect-Squares.md)[#DP#Math]
