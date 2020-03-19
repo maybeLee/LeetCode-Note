@@ -127,3 +127,7 @@
 [75 Sort Colors](./Problem/75-Sort-Colors.md)[#ChangeOnList#TwoPointers]
 
 [279 Perfect Squares](./Problem/279-Perfect-Squares.md)[#DP#Math]
+
+[208 Implement Trie (Prefix Tree)](./Problem/208 Implement Trie (Prefix Tree).md)[#list#New data structure: Trie]💗
+
+[560 Subarray Sum Equals K](./Problem/560 Subarray Sum Equals K.md)
